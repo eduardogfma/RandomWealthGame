@@ -6,3 +6,7 @@ The present project came from a simple question:
 That is it! No more rules.
 
 Code is written in python3, making use of standard libraries.
+
+## Update:
+
+ 1. Constraining agents, not allowing them to have debt is now available.
