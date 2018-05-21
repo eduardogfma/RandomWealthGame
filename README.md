@@ -10,3 +10,4 @@ Code is written in python3, making use of standard libraries.
 ## Update:
 
  1. Constraining agents, not allowing them to have debt is now available.
+ 2. Different initial wealth per agent is now available.
